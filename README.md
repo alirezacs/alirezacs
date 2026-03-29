@@ -47,4 +47,4 @@ MySQL, PostgreSQL, MongoDB, Redis
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/alirezamardani  
-- Portfolio: https://alirezaportfolio.vercel.app
+- Portfolio: https://alireza-portfolio-mu.vercel.app/
